@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: ConTroll: Disemvowel Comments
-Plugin URI: http://www.spreeblick.com/wordpress-plugin-disemvowel-comments
+Plugin URI: http://www.spreeblick.com\controll-disemvowel-comments-plugin
 Description: Selectively removes vowels from comments if you think they're annyoing. Don't feed the trolls!
 Author: Christoph Boecken
 Version: 0.5
